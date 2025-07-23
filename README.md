@@ -57,6 +57,15 @@ The **Job Portal Web Application** is a **dynamic online platform** built using 
 
 ### Home
 
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
+![Home][https://github.com/snehhagarwal/Jobify/blob/7c74dce052a19f84b2577b2837f05897b23516dc/1.png]
 
 
 
