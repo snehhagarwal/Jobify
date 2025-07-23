@@ -45,8 +45,8 @@ The **Job Portal Web Application** is a **dynamic online platform** built using 
 
 | Layer               | Technology             |
 |--------------------|------------------------|
-| Frontend           | HTML, CSS, Bootstrap   |
-| Backend            | Node.js , Express.js   |
+| Frontend           | HTML, CSS,Tailwind CSS|
+| Backend            | Node.js ,Express.js   |
 | Database           | Mongo DB(Mongoose)     |
 | Authentication     | JWT (JSON Web Tokens)  |
 
