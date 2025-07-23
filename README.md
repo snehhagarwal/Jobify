@@ -1,3 +1,13 @@
-#JOBIFY
+Jobify (Job Portal)
+📌 Project Overview
+This repository contains the source code for a Job Portal web application designed to connect job seekers with employers. The platform allows users to:
 
-The Job Portal Web Application is a dynamic online platform built using MERN Stack designed to connect job seekers and employers. It streamlines the job search and recruitment process, providing a feature-rich environment for both job seekers and employers to post job vacancies, apply for jobs, and manage their profiles.
+Search and apply for jobs
+
+Post job listings (for employers)
+
+Manage profiles (for both job seekers and recruiters)
+
+Filter jobs by category, location, and experience level
+
+Built with modern web technologies, this project is scalable, responsive, and user-friendly.
