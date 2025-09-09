@@ -4,6 +4,9 @@
 
 The **Job Portal Web Application** is a **dynamic online platform** built using **MERN Stack**, designed to bridge the gap between **job seekers** and **employers**. It streamlines the **job search** and **recruitment process** by providing a **feature-rich environment** where employers can **post job vacancies**, **manage applications**, while job seekers can **browse listings**, **apply for jobs** and **manage their profiles**. The application integrates essential functionalities such as **secure authentication** and a **responsive design** to deliver a **seamless and modern user experience** across various devices.
 
+**Deploy Link**
+https://jobify-jobseeker.netlify.app/
+
 ---
 
 ##  Features
