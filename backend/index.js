@@ -18,7 +18,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions={
     // origin:'http://localhost:5173', 
-    origin:'https://jobify-jobseeker.netlify.app/',
+    origin:'https://jobify-jobseeker.netlify.app',
     credentials:true 
 }
 app.use(cors(corsOptions));
