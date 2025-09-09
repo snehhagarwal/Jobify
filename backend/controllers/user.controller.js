@@ -89,7 +89,7 @@ export const login=async(req,res)=>{
             role:user.role,
             profile:user.profile
         }
-        return res.status(200).cookie("token",token,{maxAge:1*24*60*60*1000, httpOnly:true, sameSite:'strict'}).json({
+        return res.status(200).cookie("token",token,{maxAge:1*24*60*60*1000, httpOnly:true, secure: true,sameSite: "none"}).json({
             message: `Welcome Back ${user.fullname}`,
             user,
             success: true,
@@ -101,17 +101,35 @@ export const login=async(req,res)=>{
     }
 }
 
-export const logout=async(req,res)=>{
-     try{
-        return res.status(200).cookie("token","",{maxAge:0}).json({
-            message:"Logged Out Successfully",
-            success:true,
-        })
-     }
-     catch(error){
-        console.log(error);
-     }
-}
+// export const logout=async(req,res)=>{
+//      try{
+//         return res.status(200).cookie("token","",{maxAge:0}).json({
+//             message:"Logged Out Successfully",
+//             success:true,
+//         })
+//      }
+//      catch(error){
+//         console.log(error);
+//      }
+// }
+
+export const logout = async (req, res) => {
+  try {
+    return res.status(200)
+      .cookie("token", "", {
+        maxAge: 0,
+        httpOnly: true,
+        secure: true,
+        sameSite: "none"
+      })
+      .json({
+        message: "Logged Out Successfully",
+        success: true,
+      });
+  } catch (error) {
+    console.log(error);
+  }
+};
 
 export const updateProfile=async(req,res)=>{
     try{
